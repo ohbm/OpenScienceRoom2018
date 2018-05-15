@@ -25,7 +25,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - FSLnets - network modelling from (fMRI) time series data, Eugene Duff
 
 ### Wednesday 12:30 - 14:30: Diffusion Weighted Imaging
- - MRtrix - Advanced tools for the analysis of diffusion MRI data, tba
+ - MRtrix - Advanced tools for the analysis of diffusion MRI data, Peter McColgan
  - MDT - Microstructure Diffusion Toolbox, Alard Roebroeck
  - DiPy - Diffusion focused computational neuroanatomy in Python, Kesshi Jordan
 
