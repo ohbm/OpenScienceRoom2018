@@ -36,5 +36,6 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
 - ICP & CONGRADS - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
 - PALM - Permutation Analysis of Linear Models, Anderson Winkler
 - NDMG - NeuroData's MRI Graphs pipeline, Eric Bridgeford
+- CLINICA - Platform for Reproducible Clinical Neuroimaging Studies, Ninon Burgos
 - PHOTON - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & PAC 2018 Award Announcement, Tim Hahn
  
