@@ -23,15 +23,18 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - GIFT & FIT - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
  - fMRIprep - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski
  - FSLnets - network modelling from (fMRI) time series data, Eugene Duff
-
+ - Nilearn - Machine learning for Neuro-Imaging in Python, Jerome Dockes
+ - Neuropredict - Automatic estimation of predictive power of neuroimaging features, Pradeep Raamana
+    
 ### Wednesday 12:30 - 14:30: Diffusion Weighted Imaging
  - MRtrix - Advanced tools for the analysis of diffusion MRI data, Peter McColgan
  - MDT - Microstructure Diffusion Toolbox, Alard Roebroeck
- - DiPy - Diffusion focused computational neuroanatomy in Python, Kesshi Jordan
+ - DiPy - Diffusion imaging in Python, Kesshi Jordan
+ - VisualQC - Assistive tool for quality control of neuroimaging data, Pradeep Raamana
 
 ### Thursday 12:30 - 14:30: Connectivity, Statistics & Machine Learning
 - ICP & CONGRADS - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
 - PALM - Permutation Analysis of Linear Models, Anderson Winkler
 - NDMG - NeuroData's MRI Graphs pipeline, Eric Bridgeford
-- PHOTON - a Python-based Hyperparameter Optimization Toolbox for Neural Networks PAC 2018 Winners announcement, Tim Hahn
+- PHOTON - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & PAC 2018 Award Announcement, Tim Hahn
  
