@@ -31,6 +31,8 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - MDT - Microstructure Diffusion Toolbox, Alard Roebroeck
  - DiPy - Diffusion imaging in Python, Kesshi Jordan
  - VisualQC - Assistive tool for quality control of neuroimaging data, Pradeep Raamana
+ - myPLS - Partial least squares for relating imaging to behavior data, Valeria Kebets
+
 
 ### Thursday 12:30 - 14:30: Connectivity, Statistics & Machine Learning
 - ICP & CONGRADS - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
