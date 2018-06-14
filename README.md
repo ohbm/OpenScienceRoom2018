@@ -18,7 +18,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 12:45  - **CAT12** - A Computational Anatomy Toolbox for SPM, Christian Gaser
  - 13:15  - **SwE** - Sandwich Estimator for Longitudinal and Repeated Measures Neuroimaging data, Thomas Nichols
  - 13:30  - **FreeSurfer, FS-FAST, TRACULA** - structural, functional and diffusion MRI, Leah Morgan & Viviana Siless
- - 14:00  - **PRoNTo** - Pattern Recognition for Neuroimaging Toolbox, Janaina Mourao-Miranda
+ - 14:00  - **PRoNTo** - Pattern Recognition for Neuroimaging Toolbox, Janaina Mourao-Miranda & Jessica Schrouff
 
 ### Tuesday: Functional Imaging, Network Modelling & Machine Learning
  - 12:30  - **GIFT & FIT** - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
