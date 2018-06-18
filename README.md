@@ -22,7 +22,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
 
 ### Tuesday: Functional Imaging, Network Modelling & Machine Learning
  #### 12:00  - Panel Discussion: Short TR EPI Acquisition vs Multi Echo EPI Acquisition -
- ⋅⋅⋅Peter zu Eulenburg & Elizabeth DuPre
+ ⋅ Peter zu Eulenburg & Elizabeth DuPre
  - 12:20  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo
  - 12:30  - **GIFT & FIT** - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
  - 13:00  - **fMRIprep** - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski
@@ -38,7 +38,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 14:00  - **VisualQC** - Assistive tool for quality control of neuroimaging data, Pradeep Raamana
  - 14:15  - **myPLS** - Partial least squares for relating imaging to behavior data, Valeria Kebets
  #### 14:30  - Discussion: Clinical Translation of Neuroscience Tools - 
- ⋅⋅⋅ ***Mission Impossible*** or how to collaborate with (medical) companies, Janis Reinelt
+ ⋅  ***Mission Impossible*** or how to collaborate with (medical) companies, Janis Reinelt
  - 15:00  - **Dmipy** - An Open-Source Framework to improve reproducibility in Brain Microstructure Imaging, Julio Villalon
 
 ### Thursday: Connectivity, Statistics & Machine Learning
@@ -52,4 +52,4 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 14:00  - **PHOTON** - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & 
             PAC 2018 Award Announcement, Tim Hahn
  #### 14:30 - Discussion: Classification & Prediction of Clinical States -
- ⋅⋅⋅How good are we really? Do we need prediction or interpretability? ML or DL?
+ ⋅ How good are we really? Do we need prediction or interpretability? ML or DL?
