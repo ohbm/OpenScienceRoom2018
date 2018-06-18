@@ -36,10 +36,10 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 14:15  - **myPLS** - Partial least squares for relating imaging to behavior data, Valeria Kebets
 
 ### Thursday: Connectivity, Statistics & Machine Learning
+ - 10:30  - **Introduction to Docker** - , Chris Gorgolewski
  - 12:30  - **ICP & CONGRADS** - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
  - 13:00  - **PALM** - Permutation Analysis of Linear Models, Anderson Winkler
  - 13:20  - **NDMG** - NeuroData's MRI Graphs pipeline, Eric Bridgeford
  - 13:40  - **CLINICA** - Platform for Reproducible Clinical Neuroimaging Studies, Ninon Burgos
  - 14:00  - **PHOTON** - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & PAC 2018 Award Announcement, Tim Hahn
-
- - 14:30 - **Panel Discussion: Classification & Prediction of Clinical States** -
+- 14:30 - **Panel Discussion: Classification & Prediction of Clinical States** -
