@@ -42,5 +42,4 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 13:40  - **CLINICA** - Platform for Reproducible Clinical Neuroimaging Studies, Ninon Burgos
  - 14:00  - **PHOTON** - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & PAC 2018 Award Announcement, Tim Hahn
 
-
-The content of this site is licensed under the GNU GPLv3 :grin:
+ - 14:30 - **Panel Discussion: Classification & Prediction of Clinical States** -
