@@ -21,6 +21,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 14:00  - **PRoNTo** - Pattern Recognition for Neuroimaging Toolbox, Janaina Mourao-Miranda & Jessica Schrouff
 
 ### Tuesday: Functional Imaging, Network Modelling & Machine Learning
+ - 12:00  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo
  - 12:30  - **GIFT & FIT** - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
  - 13:00  - **fMRIprep** - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski
  - 13:30  - **FSLnets** - network modelling from (fMRI) time series data, Eugene Duff
