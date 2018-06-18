@@ -34,7 +34,8 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 13:30  - **DiPy** - Diffusion imaging in Python, Kesshi Jordan
  - 14:00  - **VisualQC** - Assistive tool for quality control of neuroimaging data, Pradeep Raamana
  - 14:15  - **myPLS** - Partial least squares for relating imaging to behavior data, Valeria Kebets
- - 14:30  -
+ #### - 14:30  -  Panel Discussion: Clinical Translation of Neuroscience Tools - 
+  ***Mission Impossible*** or how to collaborate with (medical) companies, Janis Reinelt
  - 15:00  - **Dmipy** - An Open-Source Framework to improve reproducibility in Brain Microstructure Imaging, Julio Villalon
 
 ### Thursday: Connectivity, Statistics & Machine Learning
@@ -46,4 +47,4 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 13:40  - **CLINICA** - Platform for Reproducible Clinical Neuroimaging Studies, Ninon Burgos
  - 14:00  - **PHOTON** - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & 
             PAC 2018 Award Announcement, Tim Hahn
- - 14:30 - **Panel Discussion: Classification & Prediction of Clinical States** -
+ #### - 14:30 - Panel Discussion: Classification & Prediction of Clinical States -
