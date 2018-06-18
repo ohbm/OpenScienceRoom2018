@@ -27,6 +27,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 13:30  - **FSLnets** - network modelling from (fMRI) time series data, Eugene Duff
  - 13:45  - **Nilearn** - Machine learning for Neuro-Imaging in Python, Jerome Dockes
  - 14:15  - **Neuropredict** - Automatic estimation of predictive power of neuroimaging features, Pradeep Raamana
+  #### - 14:30  - Panel Discussion: Short TR vs multi echo - 
 
 ### Wednesday: Diffusion Imaging, MRI Quality Control & PLS regression
  - 12:30  - **MRtrix** - Advanced tools for the analysis of diffusion MRI data, Peter McColgan
@@ -35,7 +36,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 14:00  - **VisualQC** - Assistive tool for quality control of neuroimaging data, Pradeep Raamana
  - 14:15  - **myPLS** - Partial least squares for relating imaging to behavior data, Valeria Kebets
  #### - 14:30  -  Panel Discussion: Clinical Translation of Neuroscience Tools - 
-  ***Mission Impossible*** or how to collaborate with (medical) companies, Janis Reinelt
+  ***Mission Impossible*** or how to collaborate with (medical) companies
  - 15:00  - **Dmipy** - An Open-Source Framework to improve reproducibility in Brain Microstructure Imaging, Julio Villalon
 
 ### Thursday: Connectivity, Statistics & Machine Learning
