@@ -32,6 +32,8 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 14:30  - **NITRC** -  NeuroInformatics Tools and Resources Collaboratory, Nina Work Preuss
  
 ### Wednesday: Diffusion Imaging, MRI Quality Control & PLS regression
+ - 09:30  - **Discussion: How to improve Multi Echo denoising** 
+ - 12:00  - 
  - 12:30  - **MRtrix** - Advanced tools for the analysis of diffusion MRI data, Peter McColgan
  - 13:00  - **MDT** - Microstructure Diffusion Toolbox, Alard Roebroeck
  - 13:30  - **DiPy** - Diffusion imaging in Python, Kesshi Jordan
