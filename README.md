@@ -25,7 +25,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  ⋅ Peter zu Eulenburg & Elizabeth DuPre
  - 12:20  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo
  - 12:30  - **GIFT & FIT** - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
- - 13:00  - **fMRIprep** - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski
+ - 13:00  - **fMRIprep** - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski ([slides](https://effigies.github.io/fmriprep-demo/))
  - 13:30  - **FSLnets** - network modelling from (fMRI) time series data, Eugene Duff
  - 13:45  - **Nilearn** - Machine learning for Neuro-Imaging in Python, Jerome Dockes
  - 14:15  - **Neuropredict** - Automatic estimation of predictive power of neuroimaging features, Pradeep Raamana
