@@ -43,7 +43,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 14:15  - **myPLS** - Partial least squares for relating imaging to behavior data, Valeria Kebets
  #### 14:30  - Discussion: Clinical Translation of Neuroscience Tools - 
  ⋅  ***Mission Impossible*** or how to collaborate with (medical) companies, Janis Reinelt
- - 15:00  - **Dmipy** - An Open-Source Framework to improve reproducibility in Brain Microstructure Imaging, Julio Villalon
+ - 15:00  - **Dmipy** - An Open-Source Framework to improve reproducibility in Brain Microstructure Imaging
 
 ### Thursday: Connectivity, Statistics & Machine Learning
  - 10:30  - **Introduction to Docker** - , Chris Gorgolewski
