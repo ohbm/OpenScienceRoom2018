@@ -2,6 +2,8 @@
 
 ***Schedule and resources from the OHBM Open Science Room: Singapore 2018***
 
+***The official Twitter hashtag set of the Open Science Room for 2018 is [#OHBM2018 #OSR](https://twitter.com/search?q=%20%23OSR%20%23OHBM2018&src=typd). Use it to coordinate events, meetings and discussions!***
+
 ### Open daily June 17-21 from 8:00 – 19:00
 ### ROOM: 311
 
