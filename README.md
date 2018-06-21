@@ -52,7 +52,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 12:15  - **Deep Learning on EEG using Braindecode** , Robin Tibor Schirrmeister
  - 12:30  - **ICP & CONGRADS** - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
  - 13:00  - **PALM** - Permutation Analysis of Linear Models, Anderson Winkler
- - 13:20  - **NDMG** - NeuroData's MRI Graphs pipeline, Eric Bridgeford
+ - 13:20  - **NDMG** - NeuroData's MRI Graphs pipeline, Eric Bridgeford [ndmg slides](http://ericwb.me/lectures/ohbm/osr_ndmg.html#/)
  - 13:40  - **CLINICA** - Platform for Reproducible Clinical Neuroimaging Studies, Ninon Burgos
  - 14:00  - **PHOTON** - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & 
             PAC 2018 Award Announcement, Tim Hahn
