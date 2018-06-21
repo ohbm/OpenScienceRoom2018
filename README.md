@@ -25,7 +25,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
 ### Tuesday: Functional Imaging, Network Modelling & Machine Learning
  #### 12:00  - Panel Discussion: Short TR EPI Acquisition vs Multi Echo EPI Acquisition -
  ⋅ Peter zu Eulenburg & Elizabeth DuPre
- - 12:20  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo
+ - 12:20  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo ([slides](https://github.com/guorongwu/rsHRF/raw/master/docs/rs_HRF_OHBM2018_Daniele.pdf))
  - 12:30  - **GIFT & FIT** - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
  - 13:00  - **fMRIprep** - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski ([slides](https://effigies.github.io/fmriprep-demo/))
  - 13:30  - **FSLnets** - network modelling from (fMRI) time series data, Eugene Duff
@@ -49,7 +49,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 10:30  - **Introduction to Docker** - , Chris Gorgolewski ([slides + video](https://www.slideshare.net/chrisfilo1/docker-for-scientists))
  - 11:00  - **Online Brain Intensive** - Collaborative Neuroscience Beyond Academia, Sara Kimmich ([site](https://www.onlinebrainintensive.com/))
  - 12:00  - **Machine Learning on MEG/EEG with MNE** , Alexandre Gramfort 
- - 12:15  - **Deep Learning on EEG using Braindecode** , Robin Tibor Schirrmeister
+ - 12:15  - 
  - 12:30  - **ICP & CONGRADS** - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
  - 13:00  - **PALM** - Permutation Analysis of Linear Models, Anderson Winkler
  - 13:20  - **NDMG** - NeuroData's MRI Graphs pipeline, Eric Bridgeford
