@@ -49,7 +49,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 10:30  - **Introduction to Docker** - , Chris Gorgolewski
  - 11:00  - **Online Brain Intensive** - Collaborative Neuroscience Beyond Academia, Sara Kimmich ([site](https://www.onlinebrainintensive.com/))
  - 12:00  - **Machine Learning on MEG/EEG with MNE** , Alexandre Gramfort 
- - 12:15  - 
+ - 12:15  - **Deep Learning on EEG using Braindecode** , Robin Tibor Schirrmeister
  - 12:30  - **ICP & CONGRADS** - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
  - 13:00  - **PALM** - Permutation Analysis of Linear Models, Anderson Winkler
  - 13:20  - **NDMG** - NeuroData's MRI Graphs pipeline, Eric Bridgeford
