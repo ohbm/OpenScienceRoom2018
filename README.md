@@ -25,7 +25,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
 ### Tuesday: Functional Imaging, Network Modelling & Machine Learning
  #### 12:00  - Panel Discussion: Short TR EPI Acquisition vs Multi Echo EPI Acquisition -
  ⋅ Peter zu Eulenburg & Elizabeth DuPre
- - 12:20  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo
+ - 12:20  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo ([slides](https://github.com/guorongwu/rsHRF/raw/master/docs/rs_HRF_OHBM2018_Daniele.pdf))
  - 12:30  - **GIFT & FIT** - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
  - 13:00  - **fMRIprep** - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski ([slides](https://effigies.github.io/fmriprep-demo/))
  - 13:30  - **FSLnets** - network modelling from (fMRI) time series data, Eugene Duff
