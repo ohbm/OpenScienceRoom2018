@@ -48,7 +48,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
 ### Thursday: Connectivity, Statistics & Machine Learning
  - 10:30  - **Introduction to Docker** - , Chris Gorgolewski ([slides + video](https://www.slideshare.net/chrisfilo1/docker-for-scientists))
  - 11:00  - **Online Brain Intensive** - Collaborative Neuroscience Beyond Academia, Sara Kimmich ([site](https://www.onlinebrainintensive.com/))
- - 12:00  - **Machine Learning on MEG/EEG with MNE** , Alexandre Gramfort 
+ - 12:00  - **Machine Learning on MEG/EEG with MNE** , Alexandre Gramfort ([slides + notebook](http://bit.ly/mne_ohbm2018))
  - 12:15  - **Deep Learning on EEG using Braindecode** , Robin Tibor Schirrmeister
  - 12:30  - **ICP & CONGRADS** - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann
  - 13:00  - **PALM** - Permutation Analysis of Linear Models, Anderson Winkler
