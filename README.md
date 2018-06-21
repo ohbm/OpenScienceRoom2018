@@ -18,7 +18,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 12:00  -- break --
  - 12:30  - **BIANCA** - Brain Intensity AbNormality Classification Algorithm, Ludovica Griffanti
  - 12:45  - **CAT12** - A Computational Anatomy Toolbox for SPM, Christian Gaser ([slides]( https://upload.uni-jena.de/data/5b2a8b3f2c8656.63430947/Gaser-OHBM2018.pdf))
- - 13:15  - **SwE** - Sandwich Estimator for Longitudinal and Repeated Measures Neuroimaging data, Thomas Nichols
+ - 13:15  - **SwE** - [SwE](http://nisox.org/Software/SwE) Sandwich Estimator for Longitudinal and Repeated Measures Neuroimaging data, Thomas Nichols ([slides](https://www.dropbox.com/s/lzbxjkznb0y5ci8/Nichols-SwE.pdf?dl=0))
  - 13:30  - **FreeSurfer, FS-FAST, TRACULA** - structural, functional and diffusion MRI, Leah Morgan & Viviana Siless
  - 14:00  - **PRoNTo** - Pattern Recognition for Neuroimaging Toolbox, Janaina Mourao-Miranda & Jessica Schrouff
 
