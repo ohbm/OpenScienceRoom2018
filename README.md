@@ -46,7 +46,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 15:00  - **Dmipy** - An Open-Source Framework to improve reproducibility in Brain Microstructure Imaging
 
 ### Thursday: Connectivity, Statistics & Machine Learning
- - 10:30  - **Introduction to Docker** - , Chris Gorgolewski
+ - 10:30  - **Introduction to Docker** - , Chris Gorgolewski ([slides + video](https://www.slideshare.net/chrisfilo1/docker-for-scientists))
  - 11:00  - **Online Brain Intensive** - Collaborative Neuroscience Beyond Academia, Sara Kimmich ([site](https://www.onlinebrainintensive.com/))
  - 12:00  - **Machine Learning on MEG/EEG with MNE** , Alexandre Gramfort 
  - 12:15  - **Deep Learning on EEG using Braindecode** , Robin Tibor Schirrmeister
