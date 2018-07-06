@@ -24,7 +24,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
 
 ### Tuesday: Functional Imaging, Network Modelling & Machine Learning
  #### 12:00  - Panel Discussion: Short TR EPI Acquisition vs Multi Echo EPI Acquisition -
- ⋅ Peter zu Eulenburg & Elizabeth DuPre
+ ⋅ Peter zu Eulenburg ([slides](https://github.com/ohbm/OpenScienceRoom2018/blob/master/OHBM2018_Pro_Short_TR_Eulenburg.pdf)) & Elizabeth DuPre 
  - 12:20  - **rsHRF** - Blind detection and deconvolution of the HRF from resting state fMRI, Daniele Marinazzo ([slides](https://github.com/guorongwu/rsHRF/raw/master/docs/rs_HRF_OHBM2018_Daniele.pdf))
  - 12:30  - **GIFT & FIT** - Group ICA Of fMRI Toolbox / Fusion ICA Toolbox, Vince Calhoun
  - 13:00  - **fMRIprep** - A Robust Preprocessing Pipeline for fMRI Data, Chris Gorgolewski ([slides](https://effigies.github.io/fmriprep-demo/))
@@ -40,7 +40,7 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 13:00  - **MDT** - Microstructure Diffusion Toolbox, Alard Roebroeck
  - 13:30  - **DiPy** - Diffusion imaging in Python, Kesshi Jordan
  - 14:00  - **VisualQC** - Assistive tool for quality control of neuroimaging data, Pradeep Raamana
- - 14:15  - **myPLS** - Partial least squares for relating imaging to behavior data, Valeria Kebets
+ - 14:15  - **myPLS** - Partial least squares for relating imaging to behavior data, Valeria Kebets ([slides](https://github.com/ohbm/OpenScienceRoom2018/blob/master/OHBM2018_myPLS_Valeria.pdf))
  #### 14:30  - Discussion: Clinical Translation of Neuroscience Tools - 
  ⋅  ***Mission Impossible*** or how to collaborate with (medical) companies, Janis Reinelt
  - 15:00  - **Dmipy** - An Open-Source Framework to improve reproducibility in Brain Microstructure Imaging
@@ -52,8 +52,8 @@ The Open Science SIG has organized the *Open Science Room* that will be availabl
  - 12:15  - **Deep Learning on EEG using Braindecode** , Robin Tibor Schirrmeister
  - 12:30  - **ICP & CONGRADS** - Instantaneous Connectivity Parcellation / Connectivity Gradients, Christian Beckmann ([slides](https://github.com/ohbm/OpenScienceRoom2018/blob/master/OHBM18_OpenScience_Beckmann_210618.pdf))
  - 13:00  - **PALM** - Permutation Analysis of Linear Models, Anderson Winkler
- - 13:20  - **NDMG** - NeuroData's MRI Graphs pipeline, Eric Bridgeford [ndmg slides](http://ericwb.me/lectures/ohbm/osr_ndmg.html#/)
- - 13:40  - **CLINICA** - Platform for Reproducible Clinical Neuroimaging Studies, Ninon Burgos
+ - 13:20  - **NDMG** - NeuroData's MRI Graphs pipeline, Eric Bridgeford ([slides](http://ericwb.me/lectures/ohbm/osr_ndmg.html#/))
+ - 13:40  - **CLINICA** - Platform for Reproducible Clinical Neuroimaging Studies, Ninon Burgos ([slides](https://github.com/ohbm/OpenScienceRoom2018/blob/master/OHBM2018_Clinica_OpenScienceRoom.pdf))
  - 14:00  - **PHOTON** - a Python-based Hyperparameter Optimization Toolbox for Neural Networks & 
             PAC 2018 Award Announcement, Tim Hahn
  #### 14:30 - Discussion: Classification & Prediction of Clinical States -
